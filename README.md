@@ -1,11 +1,12 @@
-# Document Manager System
+# Document Manager System - Delfia
 
-Este projeto é um sistema de gestão de documentos criptografados, desenvolvido utilizando FastAPI para o backend e React para o frontend. O sistema permite que os usuários façam upload de documentos e os listem.
+Este projeto é um sistema de gestão de documentos criptografados, desenvolvido utilizando Flask para o backend e Bootstrap para o frontend. 
+O sistema permite que os usuários façam upload de documentos e os listem.
 
 ## Estrutura do Projeto
 
-- **Backend (FastAPI)**: Responsável por gerenciar as operações do servidor, como upload e listagem de arquivos.
-- **Frontend (React)**: Interface gráfica para o usuário interagir com o sistema, enviando e visualizando documentos.
+- **Backend (Flask)**: Responsável por gerenciar as operações do servidor, como upload e listagem de arquivos.
+- **Frontend (Bootstrap)**: Interface gráfica para o usuário interagir com o sistema, enviando e visualizando documentos.
 
 ## Pré-requisitos
 
