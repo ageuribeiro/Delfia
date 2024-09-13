@@ -1,4 +1,4 @@
-# Document Manager System - Delfia
+# Sistema de Gestão de Documentos Criptografados - Delfia
 
 Este projeto é um sistema de gestão de documentos criptografados, desenvolvido utilizando Flask para o backend e Bootstrap para o frontend. 
 O sistema permite que os usuários façam upload de documentos e os listem.
